@@ -1,4 +1,9 @@
 ## Hi there 👋
+My name is John-young Waters
+I'm currently finishing my IT Application and Database Development degree at Liberty University Online.
+I'm looking to collaborate on projects using SQL, Python, Java, PHP, and other languages.
+I am always down to learn a new language.
+Reach me at: jyhwaters@gmail.com or jhwaters@liberty.edu
 
 <!--
 **JYoung1201/JYoung1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
