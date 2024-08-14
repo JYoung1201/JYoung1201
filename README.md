@@ -1,4 +1,4 @@
-## Hi there 👋
+## INTRO
 My name is John-young Waters
 I'm currently finishing my IT Application and Database Development degree at Liberty University Online.
 I'm looking to collaborate on projects using SQL, Python, Java, PHP, and other languages.
