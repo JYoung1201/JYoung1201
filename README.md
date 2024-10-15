@@ -1,6 +1,6 @@
 ## INTRO
 My name is John-young Waters
-I'm currently finishing my IT Application and Database Development degree at Liberty University Online.
+I am a recent graduate with Bachelor's degree in Information Technology:Application and Database Development at Liberty University Online.
 I'm looking to collaborate on projects using SQL, Python, Java, PHP, and other languages.
 I am always down to learn a new language.
 Reach me at: jyhwaters@gmail.com or jhwaters@liberty.edu
